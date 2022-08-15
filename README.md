@@ -14,7 +14,7 @@
 #### About Me ?
 
 - 🏫 I'm Completed my  Bachelor’s degree in Computer Science Engineering from the Bit Institute of Technology-Hindupur,Ananthpur,Andra-Pradesh India.
-- ⚡️ My expertise primarily revolves around JavaScript, React,  Web Development.
+- ⚡️ My expertise primarily revolves around JavaScript,  Web Development.
 
 - ♥️ I love to contribute to open-source products.
 
