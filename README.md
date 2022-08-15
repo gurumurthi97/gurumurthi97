@@ -15,8 +15,7 @@
 
 - 🏫 I'm Completed my a Bachelor’s degree in Software Engineering from the Bit Institute of Technology-Hindupur,Ananthpur,Andra-Pradesh India.
 - ⚡️ My expertise primarily revolves around JavaScript, React,  Web Development.
-- ⚡️ 
-- 🔭 Worked with multiple organizations like ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
+
 - ♥️ I love to contribute to open-source products.
 
 
