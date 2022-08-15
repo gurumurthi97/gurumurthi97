@@ -38,11 +38,11 @@
 
 #### **DevOps & Cloud Tools**:
 <img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
 <img height=25 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
 
 
 ## 📈 Stats
+
 <p align="center">
 <a href="https://github.com/gurumurthi97">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gurumurthi97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
