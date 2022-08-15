@@ -7,7 +7,7 @@
 <a href="mailto:guru13041997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1ktat06V9Njj7atofNAyRGxATkvYqmj9c/view"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anurag5086&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=gurumurthi97&style=flat-square)
 
 
 
